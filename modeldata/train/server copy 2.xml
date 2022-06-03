@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainingdata</folder>
+	<filename>server.png</filename>
+	<path>/Users/romanburkard/foronered/simspace/pi-network-upload/trainingdata/server.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>258</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>server</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>12</ymin>
+			<xmax>260</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
